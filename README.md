@@ -1,4 +1,4 @@
-# FinDas— Finance Dashboard
+# FinDash — Finance Dashboard
 
 A clean, interactive personal finance dashboard built with **React + Recharts**.  
 Track income, expenses, visualize spending patterns, and manage transactions — all in the browser with localStorage persistence.
